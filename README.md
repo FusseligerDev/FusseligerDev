@@ -28,7 +28,7 @@
             <img src="https://avatars.githubusercontent.com/u/127209427" width="100"/>
             <br/>
             <p>Minecraft bot mainly for kaboom.pw clones<p/>
-            <a href="https://github.com/Evil">Github<a/>
+            <a href="https://github.com/EvilDevelopment">Github<a/>
         <blockquote/>
     </details>
     <details>
