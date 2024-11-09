@@ -41,6 +41,16 @@
             <a href="https://github.com/TLSChat">Github<a/>
         <blockquote/>
     </details>
+    <details>
+        <summary>Detailgetreu</summary>
+        <blockquote>
+            <img src="https://avatars.githubusercontent.com/u/181734048" width="100"/>
+            <br/>
+            <p>IP lookup service<p/>
+            <a href="https://detailgetr.eu">Website<a/>
+            <a href="https://github.com/Detailgetreu">Github<a/>
+        <blockquote/>
+    </details>
 </blockquote>
 
 <blockquote>
