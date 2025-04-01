@@ -69,7 +69,7 @@
     <h1>Frameworks</h1>
     <a href="https://spring.io/projects/spring-boot"><img alt="Springboot" width="32" src="https://github.com/user-attachments/assets/d12afce1-fa2b-46c0-987a-ea396d97a5be"/></a>
     <a href="https://javalin.io"><img alt="Javalin" width="32" src="https://github.com/user-attachments/assets/44d981c8-7a00-45a9-8d19-d3d39dd53cb3"/></a>
-    <a href="https://vite.dev"><img alt="Vite" width="32" src="https://github.com/user-attachments/assets/459336c7-71cd-44a5-a100-378cf84f8d54"/></a>
+    <a href="https://vite.dev"><img alt="Vite" width="32" src="https://github.com/user-attachments/assets/6efd6714-d86c-452d-937c-b351a0ea556a"/></a>
     <a href="https://react.dev"><img alt="React" width="32" src="https://github.com/user-attachments/assets/7406feb0-999b-4c9e-a9c9-c0ca0e302a6a"/></a>
 </blockquote>
 
